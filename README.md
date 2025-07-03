@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76B8A&center=true&vCenter=true&width=435&lines=Fashify+—+Elevate+Your+Style+Game;Minimal+Fashion+Storefront+UI;Built+with+React+%2B+Tailwind+%2B+Vite" alt="Typing SVG" />
+  FASHIFY
 </h1>
 
 <p align="center">
